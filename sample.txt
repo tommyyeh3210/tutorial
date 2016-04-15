@@ -1,2 +1,3 @@
 連猴子都懂git命令
 猴子是傻B
+pull get all data
